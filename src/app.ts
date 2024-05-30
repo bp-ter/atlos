@@ -1,3 +1,13 @@
+/*
+* File: app.ts
+* Author: Berta Péter
+* Copyright: 2024, Berta Péter
+* Group: Szoft I-2-N
+* Date: 2024-05-30
+* Github: https://github.com/bp-ter/
+* Licenc: GNU GPL
+*/
+
 class Atlo {
     aSide?: HTMLInputElement | null;
     bSide?: HTMLInputElement | null;
